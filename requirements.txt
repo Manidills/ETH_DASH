@@ -1,0 +1,12 @@
+altair
+numpy
+pandas
+Pillow
+requests
+scikit_learn
+hydralit
+keras
+tensorflow
+streamlit
+streamlit-aggrid
+ipfs-api
