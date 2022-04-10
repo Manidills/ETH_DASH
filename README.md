@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-    <img src="https://www.mtpelerin.com/images/matic-coin.svg" alt="Logo" width="80" height="80">
+    <img src="![image](https://user-images.githubusercontent.com/91189264/162619242-5fd021ed-e830-4e9f-9cdb-66cd774782e2.png)" alt="Logo" width="80" height="80">
   <h3 align="center">Polygon NFT Stats</h3>
 </div>
 
