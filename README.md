@@ -40,13 +40,13 @@
 The main goal of our project is to encourage individuals to invest in the proper NFTs based on our data because many people find it difficult or harder to choose the right NFTs for their wallet. 
 
 ### Features
-* [NFT Wallet growth prediction]
-* [NFT Volume growth prediction]
-* [NFT Forgery detection]
-* [NFT Duplicate detection]
-* [TOP Trending collection]
-* [Tocken and Wallet Analysis]
-* [Tocken Estimated Prize]
+* NFT Wallet growth prediction
+* NFT Volume growth prediction
+* NFT Forgery detection
+* NFT Duplicate detection
+* TOP Trending collection
+* Tocken and Wallet Analysis
+* Tocken Estimated Prize
 
 Website link : [NFT Data House](https://share.streamlit.io/manidills/eth_dash/main.py)
 
