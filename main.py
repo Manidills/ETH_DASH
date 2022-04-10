@@ -1,5 +1,6 @@
 from hydralit import HydraApp
 import streamlit as st
+from streamlit.script_run_context import get_script_run_ctx
 from PIL import Image
 from stats import Stats
 from home import Home
@@ -34,6 +35,7 @@ if __name__ == '__main__':
     app.add_app("Duplicate & Forgery", app=Duplicate())
     app.add_app("Stats", app=Stats())
     app.add_app("Discuss", app=Discuss())
+    
     
 
     #run the whole lot

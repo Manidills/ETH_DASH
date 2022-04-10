@@ -4,7 +4,7 @@ pandas
 Pillow
 requests
 scikit_learn
-hydralit
+hydralit=1.0.12
 keras
 tensorflow
 streamlit

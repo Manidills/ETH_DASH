@@ -12,7 +12,6 @@ def search():
         df = load()
         try:
             data = df[df['token_id'] == int(input)]
-            #print(data.head())
             
             metadata = meta_load(str(input))
             st.markdown('####')
@@ -20,7 +19,7 @@ def search():
             #print(metadata)
             with col1:
                 
-                data['timestamp'] = data['timestamp'].astype('datetime64')
+                #data['timestamp'] = data['timestamp'].astype('datetime64')
                 data['timestamp'] = data['timestamp'].dt.date 
                 data= data.set_index('timestamp')
                 print(data)
