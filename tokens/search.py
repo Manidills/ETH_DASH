@@ -19,7 +19,7 @@ def search():
             #print(metadata)
             with col1:
                 
-                #data['timestamp'] = data['timestamp'].astype('datetime64')
+                data['timestamp'] = data['timestamp'].astype('datetime64')
                 data['timestamp'] = data['timestamp'].dt.date 
                 data= data.set_index('timestamp')
                 print(data)
