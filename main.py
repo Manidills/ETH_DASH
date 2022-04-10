@@ -2,6 +2,7 @@ from hydralit import HydraApp
 import streamlit as st
 #from streamlit.scriptrunner import get_script_run_ctx
 from streamlit.scriptrunner.script_run_context import get_script_run_ctx
+from streamlit.scriptrunner import get_script_run_ctx
 from PIL import Image
 from stats import Stats
 from home import Home
