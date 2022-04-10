@@ -45,8 +45,8 @@ The main goal of our project is to encourage individuals to invest in the proper
 * NFT Forgery detection
 * NFT Duplicate detection
 * TOP Trending collection
-* Tocken and Wallet Analysis
-* Tocken Estimated Prize
+* Token and Wallet Analysis
+* Token Estimated Prize
 
 Website link : [NFT Data House](https://share.streamlit.io/manidills/eth_dash/main.py)
 
