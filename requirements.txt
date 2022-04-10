@@ -7,6 +7,6 @@ scikit_learn
 hydralit==1.0.12
 keras
 tensorflow
-streamlit
+streamlit==1.4.0
 streamlit-aggrid
 ipfs-api
