@@ -28,6 +28,4 @@ data = []
 def get_list(input):
     hash = add_ipfs(input)
     ipfs_data = get_ipfs(hash)
-    print(ipfs_data)
     data.append(ipfs_data)
-    print(data)

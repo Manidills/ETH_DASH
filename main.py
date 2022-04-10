@@ -16,8 +16,8 @@ st.set_page_config(
 )
 
 #title_image = Image.open("/home/dills/Music/ethglobal/images/CryptoMode-Polygon-DeFi.jpg")
-# new_title = '<p style="font-family:Bodoni; text-align: center; color:#FEB440; font-size: 60px;">POLYGON NFT ANALYZER</p>'
-# st.markdown(new_title, unsafe_allow_html=True)
+new_title = '<p style="font-family:Bodoni; text-align: center; color:#FEB440; font-size: 60px;">NFT DATA HOUSE</p>'
+st.markdown(new_title, unsafe_allow_html=True)
 
 
 if __name__ == '__main__':

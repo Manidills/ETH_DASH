@@ -17,11 +17,14 @@ def search():
             metadata = meta_load(str(input))
             st.markdown('####')
             col1, col2 = st.columns((4,3))
+            #print(metadata)
             with col1:
                 
-                #data['timestamp'] = data['timestamp'].astype('datetime64')
+                data['timestamp'] = data['timestamp'].astype('datetime64')
                 data['timestamp'] = data['timestamp'].dt.date 
                 data= data.set_index('timestamp')
+                print(data)
+
                
                 st.info('Token Details')
                 data['time'] = data.index
