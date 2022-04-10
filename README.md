@@ -51,8 +51,7 @@ The main goal of our project is to encourage individuals to invest in the proper
 Website link : [NFT Data House](https://share.streamlit.io/manidills/eth_dash/main.py)
 
 
-<img src="![image](https://user-images.githubusercontent.com/91189264/162619810-a1e80a2d-1456-4175-a52b-1bc6ef435ad6.png)
-" alt="Logo" width="1300" height="550">
+<img src="https://user-images.githubusercontent.com/91189264/162620252-6f391809-3d3f-4f7b-8a9f-d39a07849ab6.png" alt="Logo" width="1300" height="550">
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
