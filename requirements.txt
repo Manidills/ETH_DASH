@@ -4,9 +4,9 @@ pandas
 Pillow
 requests
 scikit_learn
-hydralit==1.0.12
+hydralit
 keras
 tensorflow
-streamlit==1.4.0
+streamlit>=1.7.0
 streamlit-aggrid
 ipfs-api
