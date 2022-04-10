@@ -4,9 +4,9 @@ pandas
 Pillow
 requests
 scikit_learn
-hydralit==1.0.11
-hydralit-components==1.0.7
+hydralit
 keras
 tensorflow
-#streamlit==1.7.0
+streamlit==1.7.0
 streamlit-aggrid
+click==8.0.4
